@@ -30,6 +30,6 @@ Dış kaynaklı verilerin işlenmesi ve manipülasyonu üzerine çalışmalar.
 * Kullanıcı girişi doğrulama ve interaktif konsol uygulamaları.
 
 ## 🛠 Kullanılan Yetkinlikler
-* **Python:** Orta-İleri seviye sözdizimi, kütüphane kullanımı ve dosya (I/O) yönetimi.
+* **Python:** Orta seviye sözdizimi, kütüphane kullanımı ve dosya (I/O) yönetimi.
 * **Jupyter Notebook:** İnteraktif kodlama ve dokümantasyon.
 * **Algoritmik Düşünme:** Karmaşık problemleri parçalara ayırarak çözme yeteneği.
